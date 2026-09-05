@@ -21,7 +21,7 @@ In Browser :
 
      b. Sales Agent query :
        In Browser
-           <img width="425" height="180" alt="image" src="https://github.com/user-attachments/assets/6839b021-e410-4220-a687-7e398b85784d" />
+           <img width="425" height="180" alt="image" src="https://github.com/user-attachments/assets/f4d11baa-1999-4bb6-a10d-4eddbe1d636a" />
        In VS Code Terminal :
            <img width="480" height="87" alt="image" src="https://github.com/user-attachments/assets/52ef43da-9233-49cc-a29b-b2313e41734e" />
        In Response from Sales Agent :
@@ -35,7 +35,7 @@ In Browser :
        In Response routed to General Assistant which fetch result from LLM  :
            <img width="1557" height="967" alt="image" src="https://github.com/user-attachments/assets/db8e86f1-5b99-4575-822d-8a9cce2d2f2a" />
 
-3. POST /agent/cleanup
+4. POST /agent/cleanup
      In Browser
          <img width="585" height="925" alt="image" src="https://github.com/user-attachments/assets/7bf14cb0-1e9f-4e71-a67c-3f564d36cdf6" />
       In VS Code Terminal :
