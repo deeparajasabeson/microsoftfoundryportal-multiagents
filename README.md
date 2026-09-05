@@ -18,7 +18,6 @@ In Browser :
            <img width="1560" height="930" alt="image" src="https://github.com/user-attachments/assets/5d425cd2-f438-4924-a42d-3a1f2755586e" />           
         In Response from Support Agent :
            <img width="1585" height="745" alt="image" src="https://github.com/user-attachments/assets/0d759e5c-27fc-434e-842c-466f328a1fda" />
-
      b. Sales Agent query :
        In Browser
            <img width="425" height="180" alt="image" src="https://github.com/user-attachments/assets/f4d11baa-1999-4bb6-a10d-4eddbe1d636a" />
@@ -26,7 +25,6 @@ In Browser :
            <img width="480" height="87" alt="image" src="https://github.com/user-attachments/assets/52ef43da-9233-49cc-a29b-b2313e41734e" />
        In Response from Sales Agent :
            <img width="1560" height="955" alt="image" src="https://github.com/user-attachments/assets/2c3a17e9-88bb-4ac3-93f6-04849b33b886" />
-
     c. General query :
        In Browser
            <img width="430" height="172" alt="image" src="https://github.com/user-attachments/assets/300ce50d-0d03-4544-93ca-2a92b31942f6" />
